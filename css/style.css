@@ -1,0 +1,16 @@
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+}
+
+.navbar-inverse {
+	background-color: blue;
+}
+
+img {
+	height: 100px;
+	width: 100px;
+}
+
+footer {
+    margin: 50px 0;
+}
