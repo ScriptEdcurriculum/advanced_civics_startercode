@@ -8,12 +8,12 @@
 In this unit you will create a an app that provides update information for getting involved in your community. You will use bootstrap and to create a reponsive page. The Google Civic api will provide data. 
 
 ## Objectives:
-* 1.1 intro to project and project planning
-* 1.2 
-* 2.1 
-* 2.2 
-* 3.1  
-* 3.2 
+* 1.1 Intro to project and project planning
+* 1.2 Reading API Documentation and creating and API Key
+* 2.1 Using Postman to test your API
+* 2.2 Creating and AJAX GET request with query parameters
+* 3.1  Creating a complex element with JQuery
+* 3.2 Dynamically displaying multiple items from reponse data
 
 ## Instructions
 1) Fork this repo to your own github account. 
