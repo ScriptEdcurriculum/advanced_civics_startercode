@@ -1,4 +1,4 @@
-# Advanced Civics Project
+# Advanced Civic Info Project
 
 | # classes|Example|Planning|Assesment|
 |:--:|:--:|:--:|:--:|
