@@ -5,7 +5,7 @@
 | 3 |[Portfolio](https://scriptedcurriculum.github.io/advanced_civics_solution/)|[Planning Document](https://drive.google.com/open?id=1djJGD16zKw0DsNOKir0yP6wt-MW751isL-7UDK7ZSRc)|[Rubric](https://drive.google.com/open?id=1sE57raysW2J8LFMpNi86e1bfZ8Q9DE0OmLgGnReL-y4)|
 
 ## Overview: 
-In this unit coders will create a Civic Info App. The Civic Info app will take an address and display all of your elected representatives based on your address. In order to create this project students will use AJAX to make get request with body parameter, handle a JSON response object, use jQuery to display multiple object to the screen.
+In this unit, coders will create a Civic Info App. The Civic Info App will take an address and display all of the elected representatives realted to that address. To create this project, students will use AJAX to make a get request witha body parameter, handle a JSON response object, and use jQuery to display multiple objects to the screen.
 
 ## Objectives:
 * 1.1 Intro to project and project planning
